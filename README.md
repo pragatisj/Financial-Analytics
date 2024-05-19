@@ -1,7 +1,7 @@
 # Financial-Analytics
 
 Project Overview
-This project focuses on analyzing the competitive landscape of the top 500 companies in India. By examining market capitalization and quarterly sales data, we aim to provide actionable insights to enhance business strategies.
+This project focuses on analyzing the competitive landscape of the top 469 companies in India. By examining market capitalization and quarterly sales data, we aim to provide actionable insights to enhance business strategies.
 
 Problem Statement
 Without analyzing the competition, it is difficult for a business to survive. This project involves analyzing the competition to provide better results for management. The dataset includes information on the market capitalization and quarterly sales of the top 500 companies in India. Our goal is to find key metrics and factors, and to show meaningful relationships between attributes.
